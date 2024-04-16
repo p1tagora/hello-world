@@ -1,1 +1,1 @@
-Hello Klaus and Gökhan
+Hello from Spring Boot App
